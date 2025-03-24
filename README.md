@@ -77,18 +77,6 @@ python scripts/data_cleaning.py
 - Open `UberWeatherDashboard.twbx` in Tableau.
 - Explore interactive visualizations.
 
-## 📌 Deliverables
-
-- **Tableau Dashboard**: [`UberWeatherDashboard.twbx`](tableau/UberWeatherDashboard.twbx)
-- **Quality Assurance**: [`Quality_Assurance_Document.pdf`](qa/Quality_Assurance_Document.pdf)
-
-## 📧 Contact
-
-If you have questions or feedback, please reach out:
-
-- **[Your Name]**
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
 
 ## 📜 License
 
