@@ -58,19 +58,20 @@ A detailed QA document (`Quality_Assurance_Document.pdf`) ensures:
 git clone https://github.com/Jingfei-li/NY-UberTrips-Weather-Analysism.git
 cd NY-UberTrips-Weather-Analysis
 ```
-
-### Step 2: Data Preparation (SQL)
-
-1. Import CSV files into your SQL database.
-2. Run `data_preparation.sql` to create and populate working tables.
-
-### Step 3: Data Cleaning (Python)
+### Step 2: Data Cleaning (Python)
 
 Run the Python script to perform any additional cleaning:
 
 ```bash
 python scripts/data_cleaning.py
 ```
+
+### Step 3: Working Table (SQL)
+
+1. Import CSV files into your SQL database.
+2. Run `data_preparation.sql` to create and populate working tables.
+
+
 
 ### Step 4: Tableau Dashboard
 
